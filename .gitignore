@@ -1,0 +1,8 @@
+**/.idea/
+**/.settings/
+**/.vscode/
+**/build/
+**/debug/
+**/release/
+*.bin
+*.xml
